@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharva Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<video src="" align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/male-programmer-doing-coding-work-9560195-7793573.mp4">
+<video src="" align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/5d5d5dfe-5fd4-4b16-89ab-9d17f9694e43)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-tiwari12&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-tiwari12" /> </p>
 
