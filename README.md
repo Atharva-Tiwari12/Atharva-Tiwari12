@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="" align="right" alt="coding" width="400" src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"
+<img src="" align="right" alt="coding" width="400" src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-tiwari12&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-tiwari12" /> </p>
 
