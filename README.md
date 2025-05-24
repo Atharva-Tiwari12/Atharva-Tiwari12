@@ -1,3 +1,9 @@
+<style> 
+  * {
+    tex-align: center;
+  }
+</style>
+
 <h1 align="center">Hey 👋, I'm Atharva Tiwari</h1>
 <h3 align="center">Frontend Developer • JS Learner • India 🇮🇳</h3>
 
